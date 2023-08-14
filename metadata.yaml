@@ -1,0 +1,33 @@
+_repo: Le-lotte-di-classe-in-Francia-dal-1848-al-1850_71295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marx, Karl
+    aliases:
+    - Marx, Heinrich Karl
+    - Marx, Carlos
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '46'
+    url: http://www.gutenberg.org/2009/agents/46
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Karl_Marx
+    - https://en.wikipedia.org/wiki/Karl_Marx
+description: ''
+gutenberg_issued: '2023-07-29'
+identifiers:
+  gutenberg: '71295'
+language: it
+pgterms:marc905: 20220925111743marx
+pgterms:marc906: '1896'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bCritica Sociale, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le lotte di classe in Francia dal 1848 al 1850
+url: http://www.gutenberg.org/ebooks/71295
