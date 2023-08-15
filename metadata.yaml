@@ -1,5 +1,8 @@
 _repo: Le-lotte-di-classe-in-Francia-dal-1848-al-1850_71295
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71295-h/images/cover.jpg
 creator:
   author:
     agent_name: Marx, Karl
@@ -14,6 +17,8 @@ creator:
     - https://de.wikipedia.org/wiki/Karl_Marx
     - https://en.wikipedia.org/wiki/Karl_Marx
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71295#Le-lotte-di-classe-in-Francia-dal-1848-al-1850
 gutenberg_issued: '2023-07-29'
 identifiers:
   gutenberg: '71295'
